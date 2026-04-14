@@ -4,3 +4,4 @@ storybook-static
 *.tsbuildinfo
 tmp
 .DS_Store
+config.bat
